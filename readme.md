@@ -43,6 +43,13 @@ pip install ultralytics torch opencv-python playsound gdown
 
 ---
 
+## 🧠 Download Trained Model (YOLOv8)
+The trained YOLOv8 classification model for ragging detection is available on Google Drive:
+
+👉 [Download best.pt](https://drive.google.com/file/d/1AbCDEFGHIJKL123/view?usp=sharing)
+
+---
+
 ## 🏋️ Training the Model
 
 ```bash
