@@ -1,0 +1,47 @@
+# --- YOLO & Model Files ---
+runs/
+model/
+*.pt
+*.weights
+*.onnx
+*.engine
+*.tflite
+*.torchscript
+*.npy
+*.npz
+
+# --- Datasets ---
+dataset/
+*.zip
+*.cache
+
+# --- Media files (large or temporary) ---
+*.mp4
+*.avi
+*.mov
+*.wav
+*.mp3
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.tiff
+*.webp
+
+# --- Python Cache & Environments ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+venv/
+.env/
+
+# --- VS Code / Logs / Misc ---
+.vscode/
+*.log
+*.csv
+*.xlsx
+.DS_Store
+Thumbs.db
